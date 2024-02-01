@@ -14,9 +14,6 @@ if len(sys.argv) != 4:
 
     print("Usage: python UDP-KILLER.py <ip> <port> <threads> <range>")
 
-   sys.exit(1)
-
-
 
 ip = str(sys.argv[1])
 
