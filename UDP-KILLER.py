@@ -12,7 +12,7 @@ import sys
 
 if len(sys.argv) != 4:
 
-    print("Usage: python UDP-KILLER.py <ip> <port> <threads> <range>")
+    print("Usage: python L4.py <ip> <port> <threads> <range>")
 
 
 ip = str(sys.argv[1])
